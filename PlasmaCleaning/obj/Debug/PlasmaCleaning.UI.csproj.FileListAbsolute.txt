@@ -1,0 +1,218 @@
+C:\Users\Administrator.JLTC\Documents\Visual Studio 2013\Projects\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.exe.config
+C:\Users\Administrator.JLTC\Documents\Visual Studio 2013\Projects\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.UI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.JLTC\Documents\Visual Studio 2013\Projects\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.MainForm.resources
+C:\Users\Administrator.JLTC\Documents\Visual Studio 2013\Projects\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.Properties.Resources.resources
+C:\Users\Administrator.JLTC\Documents\Visual Studio 2013\Projects\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.UI.csproj.GenerateResource.Cache
+C:\Users\Administrator.JLTC\Documents\Visual Studio 2013\Projects\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.exe
+C:\Users\Administrator.JLTC\Documents\Visual Studio 2013\Projects\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.pdb
+C:\Users\Administrator.JLTC\Documents\Visual Studio 2013\Projects\PlasmaCleaning\PlasmaCleaning\bin\Debug\MetroFramework.Design.dll
+C:\Users\Administrator.JLTC\Documents\Visual Studio 2013\Projects\PlasmaCleaning\PlasmaCleaning\bin\Debug\MetroFramework.dll
+C:\Users\Administrator.JLTC\Documents\Visual Studio 2013\Projects\PlasmaCleaning\PlasmaCleaning\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Administrator.JLTC\Documents\Visual Studio 2013\Projects\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.exe
+C:\Users\Administrator.JLTC\Documents\Visual Studio 2013\Projects\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.pdb
+C:\Users\Administrator.JLTC\Documents\Visual Studio 2013\Projects\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.主页.resources
+C:\Users\Administrator.JLTC\Documents\Visual Studio 2013\Projects\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.手动操作.resources
+C:\Users\Administrator.JLTC\Documents\Visual Studio 2013\Projects\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.数据监控.resources
+C:\Users\Administrator.JLTC\Documents\Visual Studio 2013\Projects\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.用户管理.resources
+C:\Users\Administrator.JLTC\Documents\Visual Studio 2013\Projects\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.系统设置.resources
+C:\Users\Administrator.JLTC\Documents\Visual Studio 2013\Projects\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.自动操作.resources
+C:\Users\Administrator.JLTC\Documents\Visual Studio 2013\Projects\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.配方管理.resources
+C:\Users\Administrator.JLTC\Documents\Visual Studio 2013\Projects\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.关于.resources
+C:\Users\Administrator.JLTC\Documents\Visual Studio 2013\Projects\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.报警列表.resources
+C:\Users\Administrator.JLTC\Documents\Visual Studio 2013\Projects\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.通讯设置.resources
+C:\Users\Administrator.JLTC\Documents\Visual Studio 2013\Projects\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.登录窗口.resources
+C:\Users\Administrator.JLTC\Documents\Visual Studio 2013\Projects\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.BLL.dll
+C:\Users\Administrator.JLTC\Documents\Visual Studio 2013\Projects\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.Model.dll
+C:\Users\Administrator.JLTC\Documents\Visual Studio 2013\Projects\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.BLL.pdb
+C:\Users\Administrator.JLTC\Documents\Visual Studio 2013\Projects\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.Model.pdb
+H:\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.exe.config
+H:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.exe
+H:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.pdb
+H:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.UI.csprojResolveAssemblyReference.cache
+H:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.MainForm.resources
+H:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.Properties.Resources.resources
+H:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.主页.resources
+H:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.关于.resources
+H:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.手动操作.resources
+H:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.报警列表.resources
+H:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.数据监控.resources
+H:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.用户管理.resources
+H:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.系统设置.resources
+H:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.自动操作.resources
+H:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.通讯设置.resources
+H:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.配方管理.resources
+H:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.登录窗口.resources
+H:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.UI.csproj.GenerateResource.Cache
+H:\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.exe
+H:\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.pdb
+H:\PlasmaCleaning\PlasmaCleaning\bin\Debug\MetroFramework.Design.dll
+H:\PlasmaCleaning\PlasmaCleaning\bin\Debug\MetroFramework.dll
+H:\PlasmaCleaning\PlasmaCleaning\bin\Debug\MetroFramework.Fonts.dll
+H:\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.BLL.dll
+H:\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.Model.dll
+H:\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.BLL.pdb
+H:\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.Model.pdb
+E:\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.exe.config
+E:\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.exe
+E:\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.pdb
+E:\PlasmaCleaning\PlasmaCleaning\bin\Debug\MetroFramework.Design.dll
+E:\PlasmaCleaning\PlasmaCleaning\bin\Debug\MetroFramework.dll
+E:\PlasmaCleaning\PlasmaCleaning\bin\Debug\MetroFramework.Fonts.dll
+E:\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.BLL.dll
+E:\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.Model.dll
+E:\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.BLL.pdb
+E:\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.Model.pdb
+E:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.UI.csproj.AssemblyReference.cache
+E:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.MainForm.resources
+E:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.Properties.Resources.resources
+E:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.主页.resources
+E:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.关于.resources
+E:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.手动操作.resources
+E:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.报警列表.resources
+E:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.数据监控.resources
+E:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.用户管理.resources
+E:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.系统设置.resources
+E:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.自动操作.resources
+E:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.通讯设置.resources
+E:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.配方管理.resources
+E:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.登录窗口.resources
+E:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.UI.csproj.GenerateResource.cache
+E:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.UI.csproj.CoreCompileInputs.cache
+E:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.exe
+E:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.pdb
+D:\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.exe.config
+D:\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.exe
+D:\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.pdb
+D:\PlasmaCleaning\PlasmaCleaning\bin\Debug\EntityFramework.dll
+D:\PlasmaCleaning\PlasmaCleaning\bin\Debug\EntityFramework.SqlServer.dll
+D:\PlasmaCleaning\PlasmaCleaning\bin\Debug\MetroFramework.Design.dll
+D:\PlasmaCleaning\PlasmaCleaning\bin\Debug\MetroFramework.dll
+D:\PlasmaCleaning\PlasmaCleaning\bin\Debug\MetroFramework.Fonts.dll
+D:\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.BLL.dll
+D:\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.DAL.dll
+D:\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.Model.dll
+D:\PlasmaCleaning\PlasmaCleaning\bin\Debug\Tool.dll
+D:\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.BLL.pdb
+D:\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.BLL.dll.config
+D:\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.DAL.pdb
+D:\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.DAL.dll.config
+D:\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.Model.pdb
+D:\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.Model.dll.config
+D:\PlasmaCleaning\PlasmaCleaning\bin\Debug\Tool.pdb
+D:\PlasmaCleaning\PlasmaCleaning\bin\Debug\Tool.dll.config
+D:\PlasmaCleaning\PlasmaCleaning\bin\Debug\EntityFramework.xml
+D:\PlasmaCleaning\PlasmaCleaning\bin\Debug\EntityFramework.SqlServer.xml
+D:\PlasmaCleaning\PlasmaCleaning\bin\Debug\S7.Net.xml
+D:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.UI.csproj.AssemblyReference.cache
+D:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.UI.csproj.SuggestedBindingRedirects.cache
+D:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.MainForm.resources
+D:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.Properties.Resources.resources
+D:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.主页.resources
+D:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.关于.resources
+D:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.手动操作.resources
+D:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.报警列表.resources
+D:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.报警提示框.resources
+D:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.数据监控.resources
+D:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.消息提示框.resources
+D:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.用户管理.resources
+D:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.系统设置.resources
+D:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.自动操作.resources
+D:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.通讯设置.resources
+D:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.配方管理.resources
+D:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.登录窗口.resources
+D:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.自定义.控件.批量删除数据库数据.resources
+D:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.自定义.控件.通用参数设置.resources
+D:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.UI.csproj.GenerateResource.cache
+D:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.UI.csproj.CoreCompileInputs.cache
+D:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.UI.csproj.CopyComplete
+D:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.exe
+D:\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.pdb
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.exe.config
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.exe
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.pdb
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\bin\Debug\EntityFramework.dll
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\bin\Debug\EntityFramework.SqlServer.dll
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\bin\Debug\MetroFramework.Design.dll
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\bin\Debug\MetroFramework.dll
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\bin\Debug\MetroFramework.Fonts.dll
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.BLL.dll
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.DAL.dll
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.Model.dll
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\bin\Debug\Tool.dll
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.BLL.pdb
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.BLL.dll.config
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.DAL.pdb
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.DAL.dll.config
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.Model.pdb
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.Model.dll.config
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\bin\Debug\Tool.pdb
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\bin\Debug\Tool.dll.config
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\bin\Debug\EntityFramework.xml
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\bin\Debug\EntityFramework.SqlServer.xml
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.UI.csproj.AssemblyReference.cache
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.UI.csproj.SuggestedBindingRedirects.cache
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.MainForm.resources
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.Properties.Resources.resources
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.主页.resources
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.关于.resources
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.手动操作.resources
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.报警列表.resources
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.报警提示框.resources
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.数据监控.resources
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.消息提示框.resources
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.用户管理.resources
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.系统设置.resources
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.自动操作.resources
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.通讯设置.resources
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.配方管理.resources
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.登录窗口.resources
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.自定义.控件.批量删除数据库数据.resources
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.自定义.控件.通用参数设置.resources
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.UI.csproj.GenerateResource.cache
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.UI.csproj.CoreCompileInputs.cache
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.UI.csproj.CopyComplete
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.exe
+G:\王伟乾\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.pdb
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.exe.config
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.exe
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.pdb
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\bin\Debug\EntityFramework.dll
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\bin\Debug\EntityFramework.SqlServer.dll
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.BLL.dll
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.DAL.dll
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.Model.dll
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\bin\Debug\Tool.dll
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.BLL.pdb
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.BLL.dll.config
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.DAL.pdb
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.DAL.dll.config
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.Model.pdb
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\bin\Debug\PlasmaCleaning.Model.dll.config
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\bin\Debug\Tool.pdb
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\bin\Debug\Tool.dll.config
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\bin\Debug\EntityFramework.xml
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\bin\Debug\EntityFramework.SqlServer.xml
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.UI.csproj.AssemblyReference.cache
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.UI.csproj.SuggestedBindingRedirects.cache
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.MainForm.resources
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.Properties.Resources.resources
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.主页.resources
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.关于.resources
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.手动操作.resources
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.报警列表.resources
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.报警提示框.resources
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.数据监控.resources
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.消息提示框.resources
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.用户管理.resources
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.系统设置.resources
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.自动操作.resources
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.通讯设置.resources
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.配方管理.resources
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.界面.登录窗口.resources
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.自定义.控件.批量删除数据库数据.resources
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.自定义.控件.通用参数设置.resources
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.UI.csproj.GenerateResource.cache
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.UI.csproj.CoreCompileInputs.cache
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.UI.csproj.CopyComplete
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.exe
+G:\三菱软件\PlasmaCleaning\PlasmaCleaning\obj\Debug\PlasmaCleaning.pdb

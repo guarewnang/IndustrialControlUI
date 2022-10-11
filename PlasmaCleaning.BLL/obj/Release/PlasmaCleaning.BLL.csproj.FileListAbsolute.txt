@@ -1,0 +1,9 @@
+D:\PlasmaCleaning\PlasmaCleaning.BLL\bin\Release\PlasmaCleaning.BLL.dll
+D:\PlasmaCleaning\PlasmaCleaning.BLL\bin\Release\PlasmaCleaning.BLL.pdb
+D:\PlasmaCleaning\PlasmaCleaning.BLL\bin\Release\PlasmaCleaning.Model.dll
+D:\PlasmaCleaning\PlasmaCleaning.BLL\bin\Release\EntityFramework.dll
+D:\PlasmaCleaning\PlasmaCleaning.BLL\bin\Release\PlasmaCleaning.Model.pdb
+D:\PlasmaCleaning\PlasmaCleaning.BLL\bin\Release\EntityFramework.xml
+D:\PlasmaCleaning\PlasmaCleaning.BLL\obj\Release\PlasmaCleaning.BLL.csprojResolveAssemblyReference.cache
+D:\PlasmaCleaning\PlasmaCleaning.BLL\obj\Release\PlasmaCleaning.BLL.dll
+D:\PlasmaCleaning\PlasmaCleaning.BLL\obj\Release\PlasmaCleaning.BLL.pdb
