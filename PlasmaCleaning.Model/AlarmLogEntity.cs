@@ -1,16 +1,3 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Data.Entity;
-
-namespace PlasmaCleaning.Model
-{
-   public class AlarmLogEntity:DbContext
-    {
-       public AlarmLogEntity():base("name=AlarmLog")
-       { }
-       public DbSet<ModelAlarmLog> AlarmLogs { get; set; }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b5120f25f10d7ad5d3821c798adfb2d8489a6808546e37851d36c282ad76eb0
+size 373

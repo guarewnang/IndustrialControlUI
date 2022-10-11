@@ -1,20 +1,3 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-
-namespace PlasmaCleaning.界面
-{
-    public partial class 手动操作 : Form
-    {
-        public 手动操作()
-        {
-            InitializeComponent();
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a57c570161cf67d55d7d5b49ba7217c0a5b1ef5ee0d27a8ff706bad1d1457bc
+size 416

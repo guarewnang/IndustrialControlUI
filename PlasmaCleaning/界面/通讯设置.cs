@@ -1,20 +1,3 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-
-namespace PlasmaCleaning.界面
-{
-    public partial class 通讯设置 : Form
-    {
-        public 通讯设置()
-        {
-            InitializeComponent();
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c001345adc7c66f97dd9a7cb10008ade9b41925bbaccd3142610f902329199f
+size 416

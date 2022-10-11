@@ -1,17 +1,3 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace PlasmaCleaning.BLL
-{
-    internal class EnumBLL
-    {
-        enum ALLbll
-        { 
-         AlarmLogBLL,
-         UserBLL
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:24725e60d6de6ccbf1d60932736990d255ba6d2c0a89486d216d53c740ee559d
+size 289

@@ -1,20 +1,3 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.ComponentModel.DataAnnotations;
-
-namespace PlasmaCleaning.Model
-{
-    public class ModelProductInfo
-    {
-        [Key]
-        public int ProductInfoId { get; set; }
-        public string ProductInfoIdentifier { get; set; }
-        public string ProductInfoFactory { get; set; }
-        public string ProductInfoLicensePlateNumber { get; set; }
-        public DateTime ProductInfoSamplingTime { get; set; }
-
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e8adecf4ad8592a580315ccbac640f41abe9c7648dd722cfcac6611e6a57dc7
+size 569

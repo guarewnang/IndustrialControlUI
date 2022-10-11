@@ -1,9 +1,3 @@
-D:\PlasmaCleaning\PlasmaCleaning.BLL\bin\Release\PlasmaCleaning.BLL.dll
-D:\PlasmaCleaning\PlasmaCleaning.BLL\bin\Release\PlasmaCleaning.BLL.pdb
-D:\PlasmaCleaning\PlasmaCleaning.BLL\bin\Release\PlasmaCleaning.Model.dll
-D:\PlasmaCleaning\PlasmaCleaning.BLL\bin\Release\EntityFramework.dll
-D:\PlasmaCleaning\PlasmaCleaning.BLL\bin\Release\PlasmaCleaning.Model.pdb
-D:\PlasmaCleaning\PlasmaCleaning.BLL\bin\Release\EntityFramework.xml
-D:\PlasmaCleaning\PlasmaCleaning.BLL\obj\Release\PlasmaCleaning.BLL.csprojResolveAssemblyReference.cache
-D:\PlasmaCleaning\PlasmaCleaning.BLL\obj\Release\PlasmaCleaning.BLL.dll
-D:\PlasmaCleaning\PlasmaCleaning.BLL\obj\Release\PlasmaCleaning.BLL.pdb
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e95d6da35b97bbda6a84cfce01ecd2669eee3d541c0080a585c55a63a4dfe8b
+size 688
